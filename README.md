@@ -3,7 +3,7 @@
 <h3 align="center">Data Scientist · AI Engineer · Software Engineer</h3>
 
 <p align="center">
-  <em>Data Science graduate from FAST- National University of Computers and Emerging Sciences · Building intelligent systems at the intersection of data, ML, and software</em>
+  <em>Data Science graduate from FAST- National University of Computers and Emerging Sciences · Building intelligent systems at the intersection of data, AI, ML, and software</em>
 </p>
 
 <p align="center">
