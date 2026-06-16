@@ -57,12 +57,10 @@ I'm a Data Science graduate from **FAST NUCES** with a strong focus on Data Scie
 
 | Project | Description | Stack |
 |---|---|---|
-| 🔐 [MedLock](#) | Secure medical records system with OCR pipeline & blockchain audit trail | FastAPI · React · AES-256 · Ethereum |
-| 🎮 [Chrono Rift](#) | Multi-process C++ game with real-time scheduling & deadlock detection | C++ · POSIX · SFML · pthreads |
-| 📊 [Barcelona Airbnb Analysis](#) | End-to-end DS project: K-Means clustering + Random Forest (R²=0.732) | Python · Scikit-learn · LaTeX |
-| 🤖 [Quiz Generation System](#) | NLP-based reading comprehension & quiz generator on RACE dataset | Python · NLP · Google Colab |
+| 🔐 [MedLock](https://github.com/Quttoshi/MedLock) | (Final Year Project) Secure medical records system with OCR pipeline & blockchain audit trail | FastAPI · React · AES-256 · Ethereum |
 
-> Replace `#` with your actual repo links once pinned
+
+
 
 ---
 
